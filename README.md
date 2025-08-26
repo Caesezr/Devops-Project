@@ -1,3 +1,9 @@
+**DESCRIPTION**
+
+This is a basic API database project that I worked on while learning API's and how to connect to them, including creating Databases and storing the information pulled from the API's in these databases.
+
+**BREAKDOWN**
+
 Pokémon Database Manager
 This Python script connects to the PokéAPI to fetch Pokémon details and stores them in a local SQLite database. It provides an interactive menu for the user to retrieve, add, and remove Pokémon from the database.
 
